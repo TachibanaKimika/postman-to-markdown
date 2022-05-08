@@ -1,6 +1,6 @@
 {
-  "name": "postman-to-markdown",
-  "version": "1.0.6",
+  "name": "@onachi/postman-to-markdown",
+  "version": "1.0.7",
   "description": "Generate documentation in markdown from postman documentation.",
   "main": "./src/index.js",
   "scripts": {
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bautistaj/postman-to-markdown.git"
+    "url": "git+https://github.com/TachibanaKimika/postman-to-markdown.git"
   },
   "bugs": {
-    "url": "https://github.com/bautistaj/postman-to-markdown/issues"
+    "url": "https://github.com/TachibanaKimika/postman-to-markdown/issues"
   },
-  "homepage": "https://github.com/bautistaj/postman-to-markdown#readme"
+  "homepage": "https://github.com/TachibanaKimika/postman-to-markdown#readme"
 }
